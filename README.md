@@ -9,3 +9,4 @@ Here are some problems that I've done on Leetcode.
 | 1480   | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                   | [Solution](./problems/running-sum)                | Easy       | 8/5/2020 |
 | 1470   | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                               | [Solution](./problems/shuffle-the-array)          | Easy       | 8/5/2020 |
 | 1108   | [Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address/)                                   | [Solution](./problems/shuffle-the-array)          | Easy       | 8/6/2020 |
+| 771    | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                               | [Solution](./problems/jewels-and-stones)          | Easy       | 8/8/2020 |
